@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nadeem4n",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeem4n/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nadeem4n/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/nadeem4n/how-to-npm#readme"
 }
