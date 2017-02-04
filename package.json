@@ -1,0 +1,11 @@
+{
+  "name": "@nadeem4n/how-to-npm",
+  "version": "1.0.0",
+  "description": "NPM exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nadeem4n",
+  "license": "MIT"
+}
